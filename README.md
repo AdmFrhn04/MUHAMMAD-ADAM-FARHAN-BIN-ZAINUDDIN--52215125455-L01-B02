@@ -1,4 +1,3 @@
-# MUHAMMAD ADAM FARHAN BIN ZAINUDDIN 52215125455 L01-B02
 TASK W1 VA
 
 Understanding the distinction between a Threat and a Vulnerability is fundamental to cybersecurity.
